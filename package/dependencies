@@ -1,0 +1,50 @@
+# Comments start with a '#'.
+# Empty lines are ignored.
+
+#    = Nitrux OS Minimal System =
+
+nitrux-minimal
+
+#    = Nitrux OS Standard System =
+
+apparmor
+bash-completion
+busybox-static
+command-not-found
+command-not-found-data
+cpio
+cron
+dmidecode
+dnsutils
+dosfstools
+ed
+file
+ftp
+grub-efi-amd64
+grub-efi-amd64-bin
+hdparm
+ifupdown
+info
+iptables
+iputils-tracepath
+irqbalance
+language-selector-common
+libpam-systemd
+logrotate
+lshw
+lsof
+ltrace
+manpages
+man-db
+mlocate
+mime-support
+net-tools
+parted
+pciutils
+psmisc
+rsync
+strace
+tcpdump
+time
+usbutils
+wget
