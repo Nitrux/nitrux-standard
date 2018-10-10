@@ -39,6 +39,7 @@ man-db
 mlocate
 mime-support
 net-tools
+ntfs-3g
 parted
 pciutils
 psmisc
