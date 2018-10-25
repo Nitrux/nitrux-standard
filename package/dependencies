@@ -43,6 +43,7 @@ ntfs-3g
 parted
 pciutils
 psmisc
+python3
 rsync
 strace
 tcpdump
