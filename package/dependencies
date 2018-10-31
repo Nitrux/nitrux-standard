@@ -22,6 +22,7 @@ file
 ftp
 grub-efi-amd64
 grub-efi-amd64-bin
+grub-efi-amd64-signed
 hdparm
 ifupdown
 info
@@ -38,6 +39,7 @@ manpages
 man-db
 mlocate
 mime-support
+mokutil
 net-tools
 ntfs-3g
 parted
@@ -46,6 +48,8 @@ psmisc
 python3
 rsync
 strace
+shim
+shim-signed
 tcpdump
 time
 usbutils
