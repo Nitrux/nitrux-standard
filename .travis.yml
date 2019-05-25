@@ -18,12 +18,12 @@ branches:
   - development
 deploy:
 - provider: script
-  script: "./source/nomad-repository-util.sh upload nitrux-standard *.deb"
+  script: "./nomad-repository-util.sh upload nitrux-standard *.deb"
   skip_cleanup: true
   on:
     branch: master
 #- provider: script
-  #script: "./source/nomad-repository-util.sh upload nomad-desktop-dev *.deb"
+  #script: "./nomad-repository-util.sh upload nomad-desktop-dev *.deb"
   #skip_cleanup: true
   #on:
     #branch: development
