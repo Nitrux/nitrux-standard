@@ -33,6 +33,7 @@ irqbalance
 language-selector-common
 localechooser-data
 libpam-systemd
+linuxbrew-wrapper
 logrotate
 lshw
 lsof
