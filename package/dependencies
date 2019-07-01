@@ -32,7 +32,6 @@ iputils-tracepath
 irqbalance
 language-selector-common
 localechooser-data
-libpam-systemd
 logrotate
 lshw
 lsof
