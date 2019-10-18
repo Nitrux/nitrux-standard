@@ -30,7 +30,6 @@ info
 iptables
 iputils-tracepath
 irqbalance
-language-selector-common
 localechooser-data
 logrotate
 lshw
@@ -54,5 +53,6 @@ shim-signed
 tcpdump
 time
 usbutils
+usbmuxd
 user-setup
 wget
