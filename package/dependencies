@@ -48,8 +48,8 @@ psmisc
 python3
 rsync
 strace
-shim
-shim-signed
+#   shim
+#   shim-signed
 tcpdump
 time
 usbutils
