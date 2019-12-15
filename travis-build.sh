@@ -14,8 +14,8 @@ Section: misc
 Priority: optional
 Homepage: https://nxos.org
 
-Package: nitrux-standard
-Version: 0.1.11-${GIT_COMMIT}
+Package: nitrux-standard-legacy
+Version: 0.1.12-${GIT_COMMIT}
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Depends: $DEPENDS
 Architecture: amd64
