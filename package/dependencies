@@ -7,8 +7,6 @@ nitrux-minimal
 
 #    = Nitrux OS Standard System =
 
-#   shim
-#   shim-signed
 apparmor
 axel
 bash-completion
@@ -53,6 +51,8 @@ pciutils
 psmisc
 python3
 rsync
+#   shim
+#   shim-signed
 strace
 tcpdump
 time
