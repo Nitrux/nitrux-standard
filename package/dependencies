@@ -8,8 +8,10 @@ nitrux-minimal-legacy
 #    = Nitrux OS Standard System =
 
 apparmor
+axel
 bash-completion
 busybox-static
+cmus
 command-not-found
 command-not-found-data
 cpio
@@ -24,6 +26,7 @@ ftp
 grub-efi-amd64-bin
 grub-efi-amd64-signed
 hdparm
+htop
 ifupdown
 info
 iptables
@@ -34,11 +37,13 @@ logrotate
 lshw
 lsof
 ltrace
-manpages
 man-db
-mlocate
+manpages
+mc
 mime-support
+mlocate
 mokutil
+ncdu
 net-tools
 ntfs-3g
 parted
@@ -46,12 +51,13 @@ pciutils
 psmisc
 python3
 rsync
-strace
 #   shim
 #   shim-signed
+strace
 tcpdump
 time
-usbutils
 usbmuxd
+usbutils
 user-setup
+w3m
 wget
