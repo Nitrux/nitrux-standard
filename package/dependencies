@@ -12,8 +12,8 @@ axel
 bash-completion
 busybox-static
 cmus
-command-not-found
-command-not-found-data
+#   command-not-found
+#   command-not-found-data
 cpio
 cron
 dhcpcd5
