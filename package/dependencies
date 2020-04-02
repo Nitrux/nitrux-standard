@@ -7,13 +7,15 @@ nitrux-minimal
 
 #    = Nitrux OS Standard System =
 
+#   command-not-found
+#   command-not-found-data
+#   shim
+#   shim-signed
 apparmor
 axel
 bash-completion
 busybox-static
 cmus
-#   command-not-found
-#   command-not-found-data
 cpio
 cron
 dhcpcd5
@@ -51,8 +53,6 @@ pciutils
 psmisc
 python3
 rsync
-#   shim
-#   shim-signed
 strace
 tcpdump
 time
