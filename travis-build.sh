@@ -10,11 +10,11 @@ git_commit=$(git rev-parse --short HEAD)
 	"Section: misc" \
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
-	"Package: nitrux-standard-legacy" \
-	"Version: 0.1.13-${GIT_COMMIT}" \
+	"Package: nitrux-standard" \
+	"Version: 0.1.13-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Architecture: amd64" \
-	"Description: Hardware drivers metapackage for Nitrux."
+	"Description: The Nitrux standard system."
 
 equivs-build configuration
