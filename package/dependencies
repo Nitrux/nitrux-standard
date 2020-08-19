@@ -7,8 +7,6 @@ nitrux-minimal-legacy
 
 #    = Nitrux OS Standard System =
 
-#   shim
-#   shim-signed
 apparmor
 axel
 bash-completion
@@ -30,7 +28,6 @@ grub-efi-amd64-signed
 hdparm
 htop
 ifupdown
-info
 iptables
 iputils-tracepath
 irqbalance
