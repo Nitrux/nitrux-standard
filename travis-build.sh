@@ -11,11 +11,11 @@ git_commit=$(git rev-parse --short HEAD)
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
 	"Package: nitrux-standard-legacy" \
-	"Version: 0.1.17-$git_commit" \
+	"Version: 0.1.18-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Conflicts: nitrux-standard" \
-	"Architecture: amd64" \
+	"Architecture: all" \
 	"Description: The Nitrux standard system."
 
 equivs-build configuration
