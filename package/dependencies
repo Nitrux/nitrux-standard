@@ -21,8 +21,8 @@ grub-efi-amd64-bin
 grub-efi-amd64-signed
 ifupdown
 iptables
-iputils-tracepath
 iputils-ping
+iputils-tracepath
 irqbalance
 localechooser-data
 locales
@@ -30,9 +30,10 @@ logrotate
 lshw
 lsof
 ltrace
+mailcap
 man-db
 manpages
-mime-support
+media-types
 mlocate
 mokutil
 net-tools
