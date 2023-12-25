@@ -25,5 +25,6 @@ strace
 tcpdump
 time
 usbmuxd
+usbmuxd-openrc
 usbutils
 user-setup
