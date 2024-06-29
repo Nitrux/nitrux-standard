@@ -27,7 +27,3 @@ time
 usbmuxd
 usbutils
 user-setup
-
-#    = OpenRC compatibility packages =
-
-usbmuxd-openrc
