@@ -32,6 +32,7 @@ time
 usbmuxd
 usbutils
 user-setup
+util-linux-extra
 xfsdump
 xfsprogs
 zsh
