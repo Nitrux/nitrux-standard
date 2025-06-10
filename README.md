@@ -1,4 +1,4 @@
-# Nitrux Standard Meta package [![Build Status](https://travis-ci.org/Nitrux/nitrux-standard.svg?branch=master)](https://travis-ci.org/Nitrux/nitrux-standard)
+# Nitrux Standard Meta package
 
 This repository contains the source to create the `nitrux-standard` metapackage.
 
