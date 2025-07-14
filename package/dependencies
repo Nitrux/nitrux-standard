@@ -10,12 +10,10 @@ nitrux-minimal
 apparmor
 cpio
 dmidecode
-dnsutils
 eject
 f2fs-tools
 file
 gawk
-ifupdown
 iptables
 irqbalance
 kexec-tools
@@ -27,12 +25,9 @@ ntpsec
 ntpsec-ntpdate
 pciutils
 sensible-utils
-strace
-tcpdump
 time
 usbmuxd
 usbutils
-user-setup
 util-linux-extra
 xfsdump
 xfsprogs
