@@ -1,34 +1,39 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = Nitrux OS Minimal System =
+#    = Standard system =
 
-nitrux-minimal
-
-#    = Nitrux OS Standard System =
-
-apparmor
+coreutils
 cpio
-dmidecode
 eject
-f2fs-tools
 file
 gawk
+gobject-introspection
 iptables
-irqbalance
-kexec-tools
 lsb-release
 lshw
 lsof
 mokutil
-ntpsec
-ntpsec-ntpdate
-pciutils
+mscompress
+p7zip-full
 sensible-utils
 time
-usbmuxd
+udisks2
+unrar
+unzip
 usbutils
 util-linux-extra
-xfsdump
-xfsprogs
+xz-utils
+zip
 zsh
+zstd
+
+#    = Standard security software =
+
+apparmor
+apparmor-profiles
+apparmor-profiles-extra
+apparmor-utils
+bubblewrap
+firejail
+firejail-profiles
