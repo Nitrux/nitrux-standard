@@ -36,4 +36,3 @@ apparmor-profiles-extra
 apparmor-utils
 bubblewrap
 firejail
-firejail-profiles
