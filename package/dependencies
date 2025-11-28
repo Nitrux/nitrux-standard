@@ -11,6 +11,7 @@ gawk
 gobject-introspection
 iptables
 lsb-release
+lsd
 lshw
 lsof
 mokutil
