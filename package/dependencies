@@ -3,6 +3,7 @@
 
 #    = Standard system =
 
+bind9-dnsutils
 coreutils
 cpio
 eject
