@@ -35,7 +35,6 @@ zstd
 
 apparmor
 apparmor-profiles
-apparmor-profiles-extra
 apparmor-utils
 bubblewrap
 firejail
